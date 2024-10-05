@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="ARG:NUEVE_LITORAL" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Nueve_Litoral_%28Logo_2010%29.png/640px-Nueve_Litoral_%28Logo_2010%29.png" tvg-country="ARG", Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2726", Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="4833" name="ARG:GenTV" group="Argentina" logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png" tvg-country="ARG", GenTV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:0 type="stream" channelId="4656", Telemax
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ARG:Retro play" group="Argentina" logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" tvg-country="ARG", Retro Play
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ARG:El Chavo" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png" tvg-country="ARG", El Chavo 24/7
+http://cpi4u.com:45862/Marlo22/qegKZtmDRU/103614
+#EXTINF:0 type="stream" channelId="1719", paramount network
+http://181.176.148.142:8000/play/a033
+#EXTINF:0 type="stream" channelId="-1" name="AR:Music TOP" group="Argentina" logo="hthttps://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Musictop_logo_2016.png/800px-Musictop_logo_2016.png" tvg-country="AR", Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="1190" name="AR:COMEDY CENTRAL" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1024px-Comedy_Central_2018.svg.png" tvg-country="AR", COMEDY CENTRAL
+http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ARG:Canal 9 de Resistencia" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png/640px-Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" tvg-country="AR", Canal 9 de Resistencia
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2557" name="ARG:WARNER BROS" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Warner_Bros_Television_2019.png/320px-Warner_Bros_Television_2019.png" tvg-country="AR", WARNER TV
+http://regioplay.xyz/php/SR_REGIO_209022_/tv1.php?c=40&f=.m3u8
+#EXTINF:0 type="stream" channelId="2409" name="ARG:eltrece" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" tvg-country="AR", eltrece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0 type="stream" channelId="3789" name="ARG:Telefe" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" tvg-country="AR", Telefe caba
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0 type="stream" channelId="2843" name="ARG:CiudadMagazine" group="Argentina" logo="asd" tvg-country="AR", Ciudad Magaine
+https://g1.vxral-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+#EXTINF:0 type="stream" channelId="4651" name="ARG:CANAL NUEVE" tvg-country="AR", EL NUEVE
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:0 type="stream" channelId="4668" name="ARG:TNT SPORTS" group="Argentina" tvg-country="AR", TNT SPORTS
+http://regioplay.xyz/php/SR_REGIO_209022_/tv1.php?c=9&f=.m3u8
+#EXTINF:0 type="stream" channelId="4669" name="ARG:FOX SPORTS PREMIUN" group="Argentina" logo="ASD" tvg-country="AR", FOX SPORTS PREMIUM
+https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+#EXTINF:0 type="stream" channelId="1328", Fox Sports
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3038
+#EXTINF:0 type="stream" channelId="-1" name="ARG:LOS SIPSONS" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/The_logo_simpsons_yellow.svg/800px-The_logo_simpsons_yellow.svg.png" tvg-country="AR", LOS SIMPSONS 24/7
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="ARG:SOUTH PARK" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/South_park_sign.svg/471px-South_park_sign.svg.png" tvg-country="AR", SOUTH PARK 24/7
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2540" name="ARG:ESPN" tvg-country="AR", ESPN
+http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/3034
+#EXTINF:0 type="stream" channelId="40" name="AR:CARTOON NETWORK" audio-track="2" tvg-country="AR", CARTOON NETWORK
+http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Locobrand.gif", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0 type="stream" channelId="2896" name="ARG:SPACE" tvg-country="AR", SPACE HD
+http://cpi4u.com:45862/Marlo22/qegKZtmDRU/100076
+#EXTINF:0 type="stream" channelId="2900" name="ARG:TNT" tvg-country="AR", TNT HD
+http://190.92.72.98:8185/play/a062/index.m3u8
+#EXTINF:0 type="stream" channelId="2749" name="ARG:STAR CHANNEL" tvg-country="AR", FOX CHANNEL
+http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
+#EXTINF:0 type="stream" channelId="19" name="ARG:DISNEY CHANNEL" tvg-country="AR", DISNEY CHANNEL
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+#EXTINF:0 type="stream" channelId="41" name="ARG:NICKELODEON" tvg-country="AR", Nick
+https://usher.ttvnw.net/api/channel/hls/teen013.m3u8?allow_source=true&fast_bread=true&p=1504000&play_session_id=2ff2f633929c87ec4ff6971ddf1fe07c&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=01ee7bee29bd0818d0847130111af7b01f824f56&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22teen013%22%2C%22channel_id%22%3A797572813%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22twitch-web-wall-mason%22%2C%22expires%22%3A1653689851%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A423365556%2C%22user_ip%22%3A%22181.9.133.210%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
+#EXTINF:0 type="stream" channelId="1326", CINEMAX
+http://regioplay.xyz/php/SR_REGIO_209022_/tv1.php?c=43&f=.m3u8
+#EXTINF:0 type="stream" channelId="4653", CRONICA
+https://g2.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:0 type="stream" channelId="97" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/RadioOne.jpg/800px-RadioOne.jpg", one
+https://one.stweb.tv/one/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG", la 100
+https://g3.mc-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Popradio.gif", Pop radio 101.5
+https://ny2.stweb.tv/popradio/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", FM LAMAJA
+http://server.ohradio.com.ar:9594/stream/1/
+#EXTINF:0 type="stream" channelId="2639", TOONCAST
+http://regioplay.xyz/php/SR_REGIO_209022_/tv1.php?c=116&f=.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1920px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png", TV PUBLICA
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w1349552727_b1428000_DVR.m3u8
+#EXTINF:0 type="stream" channelId="1920", Encuentro
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:0 type="stream" channelId="2546", America TV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/1ee165cb-b164-43cd-891d-d604337fd12a:SCL/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", El señor de los anillos
+https://sv06.pelisfile.net/videos/hls/vrMDUzxWftZvv5ZaUXduKw/1662338563/27945/bddca987e9a77ae4baef7669dcd65a91/EP.0.1.v1.1653988037.360.m3u8
+#EXTINF:0 type="stream" channelId="40", CARTOON NETWORK 2
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+#EXTINF:0 type="stream" channelId="2620", Discovery Home & Health
+http://45.228.232.204:16000/play/a072/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGmkYv0Cl2cgl0LLrmWhmGU-3b7ErWMN2fIpdLBvFYpMCNU7GVWsiknr-cxccptambGo&usqp=CAU" size="Small", UN SHOW MAS 24/7
+https://usher.ttvnw.net/vod/1844525445.m3u8?acmb=e30%3D&allow_source=true&p=786449&play_session_id=f33dd0fa2e9b1f26975a6ec4d1d28060&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=7e2e68eaabebdc748830275591cc72e2a6e62e95&supported_codecs=avc1&token=%7B%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%7D%2C%22device_id%22%3A%22IaO5qE7QvmqNiclXAa8pBFtSSInDxkZK%22%2C%22expires%22%3A1688174401%2C%22https_required%22%3Atrue%2C%22privileged%22%3Afalse%2C%22user_id%22%3A423365556%2C%22version%22%3A2%2C%22vod_id%22%3A1844525445%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.20.0&transcode_mode=cbr_v1686591693/360p30/index-dvr.m3u8
+#EXTINF:0 type="stream" channelId="-1", Pasiones
+http://cpi4u.com:45862/Marlo22/qegKZtmDRU/1451
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1920px-Futurama_1999_logo.svg.png", Futurama 24/7
+http://cpi4u.com:45862/Marlo22/qegKZtmDRU/144174
+#EXTINF:0 type="stream" channelId="-1" logo="https://yt3.googleusercontent.com/qS38i-I2iKlFEMLqpomVUAKRjHGrPSlPHCft65SwwSYA01WgI-AvNMDE4ZLWmqGYT5Hq8_I3iw=s900-c-k-c0x00ffffff-no-rj", Canal 11 la costa
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
